@@ -19,16 +19,17 @@
 WiFiClientSecure espClient;
 PubSubClient client(espClient);
 
+char charBuf[50];
+ 
+const int actuator1Pin = 2;
+
 const char* ssid = "YourSSID";
 const char* password = "YourWiFiPassword";
 
 const char* mqtt_server = "iot.techbubbletechnologies.com";
 int  mqttPort = 8883;
- 
-const int actuator1Pin = 2;
 
 String locationID = "YourLocationID";
-char charBuf[50];
 String zoneID = "YourZoneID";
 String deviceID = "YourDeviceID";
 char deviceName[] = "YourDeviceName"; 
