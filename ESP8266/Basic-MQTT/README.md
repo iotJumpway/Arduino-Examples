@@ -1,14 +1,12 @@
 # IoT JumpWay Arduino ESP8266 Basic MQTT Example
 
-![IoT JumpWay Intel Galileo Gen 1 Basic LED Example Docs](../../../images/main/IoT-Jumpway.jpg)  
+![IoT JumpWay Intel Galileo Gen 1 Basic LED Example Docs](../../images/main/IoT-Jumpway.jpg)  
 
 ## Introduction
 
 Here you will find sample device scripts for connecting ESP8266 to the TechBubble Technologies IoT JumpWay using the Arduino IDE. The codes allow you to set up a basic device that allows communication via the TechBubble IoT JumpWay using MQTT. Once you understand how it works you are free to add as many actuators and sensors to your device and modify your code accordingly.
 
-## Hardware requirements
-
-![IoT JumpWay Intel Galileo Gen 1 Basic LED Example Docs](../../../images/Basic-LED/Hardware.jpg)
+## Hardware Requirements
 
 1. ESP8266.
 
