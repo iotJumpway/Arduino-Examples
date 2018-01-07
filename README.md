@@ -5,9 +5,9 @@ The Arduino MQTT examples allow developers to connect their IoT devices to the T
 
 ## Examples
 
-[IoT JumpWay Arduino ESP8266 Basic MQTT Example](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Arduino-Examples/tree/master/ESP8266/Basic-MQTT "IoT JumpWay Arduino ESP8266 Basic MQTT Example")
+- [IoT JumpWay Arduino ESP8266 Basic MQTT Example](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Arduino-Examples/tree/master/ESP8266/Basic-MQTT "IoT JumpWay Arduino ESP8266 Basic MQTT Example")
 
-[IoT JumpWay TTM ESP8266 Arduino Device](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Arduino-Examples/tree/master/ESP8266/TTM "IoT JumpWay TTM ESP8266 Arduino Device")
+- [IoT JumpWay TTM ESP8266 Arduino Device](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Arduino-Examples/tree/master/ESP8266/TTM "IoT JumpWay TTM ESP8266 Arduino Device")
 
 ## IoT JumpWay Arduino Bugs/Issues
 
