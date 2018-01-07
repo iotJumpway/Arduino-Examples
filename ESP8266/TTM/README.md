@@ -42,6 +42,12 @@ For this version of the setup instructions I will just give you the pin connecti
 
 Coming soon.
 
+## Cloning The Repository
+
+You will need to clone the IoT-JumpWay-Arduino-Examples repository to a location on your device. Visit the repository on the following link and clone or download the repo to the location of your choice. If you already have a copy of the repo you can sync your local version to retrieve the latest files.
+
+- [IoT-JumpWay-Arduino-Examples repository](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Arduino-Examples "IoT-JumpWay-Arduino-Examples repository") 
+
 ## Viewing Your Data
 
 The TTM sends the temperature and humidity every 3 minutes as Sensor Data to the [TechBubble IoT JumpWay](https://iot.techbubbletechnologies.com/ "TechBubble IoT JumpWay"). You will be able to access the data in the [TechBubble IoT JumpWay Developers Area](https://iot.techbubbletechnologies.com/developers/dashboard/ "TechBubble IoT JumpWay Developers Area"). Once you have logged into the Developers Area, visit the [TechBubble IoT JumpWay Location Devices Page](https://iot.techbubbletechnologies.com/developers/location-devices "Location Devices page"), find your device and then visit the Sensor Data pages to view the data sent from the device, you can also see the device sleeping and waking up every 3 minutes in the status data.
