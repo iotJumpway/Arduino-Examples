@@ -1,6 +1,6 @@
-# IoT JumpWay TTM Device
+# IoT JumpWay TTM ESP8266 Arduino Device
 
-![IoT JumpWay TTM Device](../../Images/TTM/banner.png)
+![IoT JumpWay TTM ESP8266 Arduino Device](../../Images/TTM/banner.png)
 
 ## Introduction
 
