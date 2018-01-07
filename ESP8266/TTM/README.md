@@ -26,4 +26,4 @@ Please feel free to create issues for bugs and general issues you come accross w
 
 ## IoT JumpWay Arduino Contributors
 
-(https://github.com/AdamMiltonBarker "Adam Milton-Barker, TechBubble Technologies Founder")
+[Adam Milton-Barker, TechBubble Technologies Founder](https://github.com/AdamMiltonBarker "Adam Milton-Barker, TechBubble Technologies Founder")
