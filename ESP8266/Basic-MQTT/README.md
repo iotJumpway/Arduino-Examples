@@ -1,6 +1,6 @@
 # IoT JumpWay Arduino ESP8266 Basic MQTT Example
 
-![IoT JumpWay TTM ESP8266 Arduino Device](../../Images/TTM/banner.png)
+![IoT JumpWay TTM ESP8266 Arduino Device](../../Images/main/banner.png)
 
 ## Introduction
 
@@ -39,10 +39,10 @@ Here you will find sample device scripts for connecting ESP8266 to the TechBubbl
     char mqttPassword[]  = "YourDeviceMQTTPassword"; 
 ```
 
-## IoT JumpWay Arduino ESP8266 Examples Bugs/Issues
+## IoT JumpWay Arduino Bugs/Issues
 
-Please feel free to create issues for bugs and general issues you come accross whilst using the IoT JumpWay Arduino ESP8266 Examples. You may also use the issues area to ask for general help whilst using the IoT JumpWay Arduino ESP8266 Examples in your IoT projects.
+Please feel free to create issues for bugs and general issues you come accross whilst using the IoT JumpWay Arduino Examples. You may also use the issues area to ask for general help whilst using the IoT JumpWay Arduino Examples in your IoT projects.
 
-## IoT JumpWay Arduino ESP8266 Contributors
+## IoT JumpWay Arduino Contributors
 
-- [Adam Milton-Barker, TechBubble Technologies Founder](https://github.com/AdamMiltonBarker "Adam Milton-Barker, TechBubble Technologies Founder")
+[Adam Milton-Barker, TechBubble Technologies Founder](https://github.com/AdamMiltonBarker "Adam Milton-Barker, TechBubble Technologies Founder")
