@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The TTM Device is a temperature and humidity sensor device created on an ESP8266 12F and uses the IoT JumpWay for its device to device communication. 
+The TTM Device is a temperature and humidity sensor device created on an ESP8266 12F and uses the IoT JumpWay for its device to device communication. Following this tutorial will result in the breadboard TTM you see in the image below, in a future tutorial I will show you how to create the circuit shown on the right.
 
 ![IoT JumpWay TTM ESP8266 Arduino Device](../../Images/TTM/ttm.jpg)
 
@@ -42,14 +42,15 @@ For this version of the setup instructions I will just give you the pin connecti
 
 ![IoT JumpWay TTM ESP8266 Arduino Device](../../Images/TTM/breadboard.jpg)
 
-## Pin Connections
+## ESP8266 / DHT Pin Connections
 
 Coming soon.
 
 ## Software Installation
 
 - Install Arduino, tested with 1.8.4:  [Visit arduino.cc](https://www.arduino.cc/en/Main/Software "Visit arduino.cc") If you have the option to download from Windows Store I suggest against this, I ran into a number of issues when I wanted to move the locations of the default folders or access the files, I suggest downloading the zip where possible.
-- Install ESP8266 Arduino:  [ESP8266 core for Arduino on GitHub](https://github.com/esp8266/Arduino "ESP8266 core for Arduino on GitHub") Follow the instructions provided  [here (Installing with Boards Manager)](https://github.com/esp8266/Arduino#installing-with-boards-manager "here (Installing with Boards Manager)")
+- Install ESP8266 Arduino:  [ESP8266 core for Arduino Docs](https://esp8266.github.io/Arduino/versions/2.0.0/doc/installing.html "ESP8266 core for Arduino Docs") Follow the instructions provided  [here (Installing with Boards Manager)](https://esp8266.github.io/Arduino/versions/2.0.0/doc/installing.html#using-git-version "here (Installing with Boards Manager)").
+- Install the following libraries in  Arduino IDE PubSubClient, ArduinoJson, DHT.
 
 ## Cloning The Repository
 
