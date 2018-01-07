@@ -42,11 +42,18 @@ For this version of the setup instructions I will just give you the pin connecti
 
 Coming soon.
 
+## Software Installation
+
+- Install Arduino, tested with 1.8.4:  [Visit arduino.cc](https://www.arduino.cc/en/Main/Software "Visit arduino.cc") If you have the option to download from Windows Store I suggest against this, I ran into a number of issues when I wanted to move the locations of the default folders or access the files, I suggest downloading the zip where possible.
+- Install ESP8266 Arduino:  [ESP8266 core for Arduino on GitHub](https://github.com/esp8266/Arduino "ESP8266 core for Arduino on GitHub") Follow the instructions provided here (Installing with Boards Manager) [Installing with Boards Manager on GitHub](https://github.com/esp8266/Arduino#installing-with-boards-manager "Installing with Boards Manager on GitHub")
+
 ## Cloning The Repository
 
 You will need to clone the IoT-JumpWay-Arduino-Examples repository to a location on your device. Visit the repository on the following link and clone or download the repo to the location of your choice. If you already have a copy of the repo you can sync your local version to retrieve the latest files.
 
-- [IoT-JumpWay-Arduino-Examples repository](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Arduino-Examples "IoT-JumpWay-Arduino-Examples repository") 
+- [IoT-JumpWay-Arduino-Examples repository](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Arduino-Examples "IoT-JumpWay-Arduino-Examples repository")  
+
+Once you have your local copy, navigate to the ESP8266/TTM folder to find the code 
 
 ## Viewing Your Data
 
