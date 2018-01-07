@@ -6,6 +6,8 @@
 
 The TTM Device is a temperature and humidity sensor device created on an ESP8266 12F and uses the IoT JumpWay for its device to device communication. 
 
+![IoT JumpWay TTM ESP8266 Arduino Device](../../Images/TTM/ttm.jpg)
+
 ## Required Software
 
 - Arduino IDE (I used 1.8.4)
@@ -37,6 +39,8 @@ There are a few tutorials that you should follow before beginning, especially if
 ## ESP8266 Setup Instructions
 
 For this version of the setup instructions I will just give you the pin connections I used and explain the process using a FocaV2 programmer, but any programmer of that type should work, if you have a different version and try this out feel free to let us know how it went. 
+
+![IoT JumpWay TTM ESP8266 Arduino Device](../../Images/TTM/breadboard.jpg)
 
 ## Pin Connections
 
