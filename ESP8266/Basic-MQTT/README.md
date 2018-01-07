@@ -1,6 +1,6 @@
 # IoT JumpWay Arduino ESP8266 Basic MQTT Example
 
-![IoT JumpWay Intel Galileo Gen 1 Basic LED Example Docs](../../images/main/IoT-Jumpway.jpg)  
+![IoT JumpWay TTM ESP8266 Arduino Device](../../Images/TTM/banner.png)
 
 ## Introduction
 
