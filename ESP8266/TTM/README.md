@@ -6,6 +6,24 @@
 
 The TTM Device is a temperature and humidity sensor device created on an ESP8266 12F and uses the IoT JumpWay for its device to device communication. 
 
+## Required Software
+
+- Arduino IDE (I used 1.8.4)
+- IoTJumpWay
+- PubSubClient
+- ESP8266WiFi
+- ArduinoJson
+- DHT
+
+## Required Hardware etc
+
+- ESP8266 (I used 12F)
+- Breadboard
+- Wires
+- USB Programmer
+- Resistors
+- DHT 
+
 ## Before You Begin
 
 There are a few tutorials that you should follow before beginning, especially if it is the first time you have used the TechBubble IoT JumpWay Developer Program. If you do not already have one, you will require a TechBubble IoT JumpWay Developer Program developer account, and some basics to be set up before you can start creating your IoT devices. Visit the following [IoT JumpWay Developer Program Docs (5-10 minute read/setup)](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/ "IoT JumpWay Developer Program Docs (5-10 minute read/setup)") and check out the guides that take you through registration and setting up your Location Space, Zones, Devices and Applications (About 5 minutes read).
@@ -15,6 +33,14 @@ There are a few tutorials that you should follow before beginning, especially if
 - Follow the [TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Application Doc](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/blob/master/5-Location-Applications.md "TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Application Doc") to set up your IoT JumpWay Location Application.
 
 - Setup an IoT JumpWay Location Device for each IP camera you will be connecting to, and / or your Realsense camera. For this example, we only require the device ID for each camera, we will not be using the MQTT details for each camera as the application is capable of sending data on behalf of any device in its location. Follow the [TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Device Doc](https://github.com/TechBubbleTechnologies/IoT-JumpWay-Docs/blob/master/4-Location-Devices.md "TechBubble Technologies IoT JumpWay Developer Program (BETA) Location Device Doc") to set up your devices.
+
+## ESP8266 Setup Instructions
+
+For this version of the setup instructions I will just give you the pin connections I used and explain the process using a FocaV2 programmer, but any programmer of that type should work, if you have a different version and try this out feel free to let us know how it went. 
+
+## Pin Connections
+
+Coming soon.
 
 ## Viewing Your Data
 
