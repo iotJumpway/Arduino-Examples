@@ -45,7 +45,7 @@ Coming soon.
 ## Software Installation
 
 - Install Arduino, tested with 1.8.4:  [Visit arduino.cc](https://www.arduino.cc/en/Main/Software "Visit arduino.cc") If you have the option to download from Windows Store I suggest against this, I ran into a number of issues when I wanted to move the locations of the default folders or access the files, I suggest downloading the zip where possible.
-- Install ESP8266 Arduino:  [ESP8266 core for Arduino on GitHub](https://github.com/esp8266/Arduino "ESP8266 core for Arduino on GitHub") Follow the instructions provided here (Installing with Boards Manager) [Installing with Boards Manager on GitHub](https://github.com/esp8266/Arduino#installing-with-boards-manager "Installing with Boards Manager on GitHub")
+- Install ESP8266 Arduino:  [ESP8266 core for Arduino on GitHub](https://github.com/esp8266/Arduino "ESP8266 core for Arduino on GitHub") Follow the instructions provided  [here (Installing with Boards Manager)](https://github.com/esp8266/Arduino#installing-with-boards-manager "here (Installing with Boards Manager)")
 
 ## Cloning The Repository
 
